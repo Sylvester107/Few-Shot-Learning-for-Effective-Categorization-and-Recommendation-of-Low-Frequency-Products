@@ -1,7 +1,7 @@
 # Few-shot learning for Effective Product Categorization and Recommendation 🔍
 
 📚 **Overview**
-=========================s
+=========================
   
 This repository contains the implementation of a session-aware product recommendation system that integrates session data with product metadata. Using a few-shot learning approach with SetFit, the model predicts and ranks the top 100 products a user is likely to interact with. The approach addresses the cold-start problem for low-frequency products by leveraging enriched embeddings and contrastive learning. Experimental results demonstrate superior performance, particularly for low-frequency items, achieving an MRR@100 of 0.3198.
 
